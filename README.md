@@ -25,8 +25,8 @@ Review [git](https://try.github.io/levels/1/challenges/1), [HTML, CSS](http://ma
 * Use AWS to receive emails from website
 
 ## Second Project
-Iteration on portfolio site
+Iteration on portfolio site. Decide on interest path (Front end or Back end)
 
 ## Third Project
 
-CSV parsing in Node. (Time permitting)
+CSV parsing in Node. (Time and interest permitting)
