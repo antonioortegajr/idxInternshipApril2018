@@ -17,7 +17,7 @@ Sign up for or install the following applications and languages
 
 ## First Project
 
-Review git, [HTML, CSS](http://marksheet.io), [JavaScript](http://www.learn-js.org/).
+Review [git](https://try.github.io/levels/1/challenges/1), [HTML, CSS](http://marksheet.io), [JavaScript](http://www.learn-js.org/).
 * Use github issues for tracking tasks
 * Use skills to make a website in Github
 * Set up github pages
