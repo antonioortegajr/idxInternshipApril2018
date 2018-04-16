@@ -26,3 +26,7 @@ Review [git](https://try.github.io/levels/1/challenges/1), [HTML, CSS](http://ma
 
 ## Second Project
 Iteration on portfolio site
+
+## Third Project
+
+CSV parsing in Node. (Time permitting)
