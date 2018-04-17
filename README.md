@@ -1,6 +1,6 @@
 # idxInternshipApril2018
 
-IDX Internship Nov 2018
+IDX Internship April 2018
 
 ## Goals
 * Use issue tracking and git versioning for projects.
