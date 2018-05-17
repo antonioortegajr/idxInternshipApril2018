@@ -2,6 +2,8 @@
 
 ## About
 
+Project #2 for my internship at IDX.
+
 Generic CSV parser meant for parsing JSON data into a CSV format. Data is meant to come in from rest endpoint. This example was built with the sample JSON provided in mind. 
 
 ## Requirements
